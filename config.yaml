@@ -38,3 +38,8 @@ menu:
       weight: 4
 taxonomies:
   tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

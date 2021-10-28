@@ -5,7 +5,6 @@ date: '2021-10-28'
 slug: []
 categories: []
 tags: []
-draft: yes
 ---
 
 test text
